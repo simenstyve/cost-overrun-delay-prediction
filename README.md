@@ -13,7 +13,7 @@ Feature Engineering: Transforms raw operational data into domain-specific indica
 Human-in-the-Loop Integration: Outputs are designed to be consumed by project managers and directors, not to replace them, ensuring ethical oversight.
 
 
-Technology Stack
+**Technology Stack**
 
 Language: Python
 
@@ -24,7 +24,7 @@ Machine Learning: Scikit-learn (SVM, Random Forest, Linear Regressors)
 Visualization: Matplotlib, Seaborn for stakeholder reporting.
 
 
-Responsible AI & Governance
+**Responsible AI & Governance**
 
 Consistent with the principles of Responsible AI, this implementation prioritizes:
 
@@ -37,7 +37,7 @@ Data Privacy: This framework is built to operate on operational metadata, strict
 Actionable Governance: The system identifies "controllable" factors versus "environmental" factors, helping management distinguish between operational inefficiencies and external hurdles.
 
 
-Repository Structure
+**Repository Structure**
 
 notebooks/cost_overrun_fp.ipynb: End-to-end exploratory data analysis (EDA) and model training.
 
@@ -48,7 +48,7 @@ src/models.py: Implementations of the classification and regression pipelines.
 src/evaluation.py: Metrics tailored to organizational impact (Precision/Recall).
 
 
-Strategic Use Cases
+**Strategic Use Cases**
 
 Portfolio Risk Monitoring: High-level dashboarding for executive directors to see which global initiatives require additional support.
 
@@ -57,15 +57,14 @@ Budget Forecasting: Refining the accuracy of long-term financial planning by adj
 Grant & Resource Accountability: Providing evidentiary data to donors on how risks are identified and mitigated through technology.
 
 
-Limitations & Future Work
+**Limitations & Future Work**
 
 Data Quality Dependency: The model is only as strong as the historical reporting data available.
 
 Integration: Future iterations aim to integrate directly with ERP systems (like NetSuite or SAP) via REST APIs for real-time monitoring.
 
 
-Author: Styve Simen
+**Author: Styve Simen**
 
-Target Role: AI Strategy and Solutions Lead
 
 Leveraging data-driven insights to ensure every resource is used effectively in the service of human rights.
