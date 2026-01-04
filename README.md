@@ -2,7 +2,7 @@
 
 Strategic Overview
 
-In complex, global organizations like Human Rights Watch, the ability to anticipate project volatility is critical for effective mission delivery. This project implements a Predictive Analytics Framework designed to identify cost overruns and schedule delays before they occur.
+In complex, global organizations, the ability to anticipate project volatility is critical for effective mission delivery. This project implements a Predictive Analytics Framework designed to identify cost overruns and schedule delays before they occur.
 
 By shifting from reactive reporting to proactive risk-signaling, this tool serves as an early-warning system for leadership, ensuring that donor funds and human resources are allocated where they are most impactful.
 
